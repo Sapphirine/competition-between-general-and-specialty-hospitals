@@ -1,0 +1,1514 @@
+,Age Group,Gender,Race,Length of Stay,Type of Admission,Patient Disposition,CCS Diagnosis Code,CCS Procedure Code,APR Severity of Illness Code,Total Charges
+1442697,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85385.00
+1442699,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$86723.60
+1442701,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$89548.86
+1442703,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,237,153,3,$99145.01
+1442707,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,1,$94325.40
+1442710,30 to 49,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$162345.31
+1442716,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$81552.98
+1442719,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$99267.16
+1442720,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$79757.71
+1442722,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80473.39
+1442723,70 or Older,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$93368.94
+1442724,70 or Older,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$93621.69
+1442727,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$116355.84
+1442728,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$118745.15
+1442734,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$76489.42
+1442735,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$74870.78
+1442740,50 to 69,F,Other Race,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$145184.46
+1442744,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$130669.81
+1442748,70 or Older,M,White,3,Elective,Skilled Nursing Home,203,153,2,$78164.95
+1442749,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$115712.14
+1442754,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$84546.10
+1442756,70 or Older,F,White,3,Elective,Home or Self Care,203,153,2,$95352.74
+1442758,50 to 69,M,Other Race,4,Elective,Home w/ Home Health Services,203,152,2,$163357.95
+1442765,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$125257.49
+1442766,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$88007.35
+1442768,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$82883.52
+1442771,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$86864.32
+1442778,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$80697.88
+1442780,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$86728.58
+1442785,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$87398.86
+1442788,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80625.10
+1442793,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$115983.76
+1442795,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$210611.84
+1442796,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,212,153,2,$83473.28
+1442800,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$83178.87
+1442804,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$90980.19
+1442805,70 or Older,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$125026.28
+1442806,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$95045.31
+1442808,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$103340.77
+1442814,50 to 69,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$100622.55
+1442815,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,3,$75036.92
+1442820,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$84976.35
+1442822,50 to 69,F,White,3,Elective,Home w/ Home Health Services,212,153,2,$87511.45
+1442824,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$99302.79
+1442827,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$88006.69
+1442828,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$75627.09
+1442836,30 to 49,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$86561.20
+1442838,70 or Older,F,White,4,Elective,Skilled Nursing Home,237,153,2,$169761.69
+1442842,30 to 49,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$113800.74
+1442844,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$109072.01
+1442849,70 or Older,F,White,3,Elective,Skilled Nursing Home,237,153,2,$127339.15
+1442851,50 to 69,F,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$97771.70
+1442854,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,3,$95557.98
+1442855,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$75133.39
+1442857,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$82528.91
+1442865,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,237,153,3,$84964.17
+1442867,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$87853.17
+1442872,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$84815.56
+1442873,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$78297.28
+1442875,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$92223.43
+1442885,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,3,$82789.93
+1442888,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,237,153,3,$98822.23
+1442889,18 to 29,F,White,6,Elective,Skilled Nursing Home,217,153,3,$169258.13
+1442892,50 to 69,F,White,5,Elective,Home w/ Home Health Services,203,153,2,$111531.98
+1442900,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$76381.55
+1442901,50 to 69,F,Black/African American,5,Elective,Home w/ Home Health Services,237,153,3,$257693.21
+1442905,70 or Older,F,Multi-racial,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$83912.67
+1442906,50 to 69,F,White,2,Elective,Home w/ Home Health Services,225,153,1,$81780.21
+1442907,70 or Older,F,Black/African American,3,Elective,Skilled Nursing Home,203,153,1,$80176.82
+1442910,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$92958.77
+1442919,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,212,153,2,$91249.76
+1442928,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$106612.02
+1442929,50 to 69,F,White,5,Elective,Inpatient Rehabilitation Facility,209,153,3,$186757.08
+1442930,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85682.92
+1442937,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79350.11
+1442940,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,2,$98013.63
+1442944,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$85582.55
+1442948,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$84577.76
+1442950,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$85811.36
+1442952,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$74340.70
+1442953,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,212,153,1,$69491.16
+1442956,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,212,153,2,$90362.38
+1442959,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,198,153,1,$101482.42
+1442963,50 to 69,M,White,7,Elective,Home w/ Home Health Services,203,153,2,$117006.34
+1442965,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$253152.68
+1442968,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85968.38
+1442969,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$82134.00
+1442970,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82600.25
+1442971,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$84021.87
+1442972,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$94179.43
+1442975,70 or Older,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$88267.05
+1442980,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$71905.76
+1442989,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$81117.44
+1442993,50 to 69,F,White,5,Elective,Skilled Nursing Home,203,153,2,$103915.77
+1442994,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$102638.48
+1442996,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80190.41
+1442999,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$76589.39
+1443000,50 to 69,M,Black/African American,3,Elective,Skilled Nursing Home,203,153,1,$89673.43
+1443001,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$75385.33
+1443002,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$88346.15
+1443004,50 to 69,F,White,3,Elective,Home or Self Care,203,153,2,$79352.88
+1443007,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$81368.04
+1443012,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82996.71
+1443019,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$76748.72
+1443020,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$95961.67
+1443021,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77290.30
+1443024,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$69628.80
+1443025,70 or Older,M,White,3,Elective,Home w/ Home Health Services,237,153,3,$200318.37
+1443026,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$87070.11
+1443028,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$79200.52
+1443032,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$77779.79
+1443034,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$85053.36
+1443038,50 to 69,M,White,2,Elective,Home w/ Home Health Services,209,153,3,$106630.62
+1443041,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$128278.55
+1443045,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$84008.76
+1443047,50 to 69,M,White,2,Elective,Home w/ Home Health Services,212,153,1,$81627.65
+1443048,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$71667.95
+1443053,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$77820.16
+1443054,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$78076.82
+1443058,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$83454.08
+1443060,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$77452.24
+1443065,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$126157.83
+1443066,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$121287.64
+1443067,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,3,$56592.02
+1443068,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,3,$57989.56
+1443069,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$84918.58
+1443074,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$82650.44
+1443078,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$79212.25
+1443080,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$67256.03
+1443087,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$82842.27
+1443088,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$110428.18
+1443089,30 to 49,M,White,6,Elective,Skilled Nursing Home,203,153,2,$113117.60
+1443093,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$80863.77
+1443095,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$135532.83
+1443096,50 to 69,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,3,$152159.22
+1443109,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$77502.04
+1443118,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$77945.40
+1443120,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$95107.87
+1443121,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$78353.81
+1443122,30 to 49,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$88955.31
+1443124,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,237,153,3,$141246.40
+1443127,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$91310.35
+1443132,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$81067.90
+1443133,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$72684.84
+1443138,30 to 49,M,Other Race,5,Elective,Home w/ Home Health Services,203,153,2,$105130.71
+1443144,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,2,$103727.65
+1443145,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$97056.85
+1443153,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85206.97
+1443154,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$70059.36
+1443162,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$125353.95
+1443169,70 or Older,M,Other Race,5,Elective,Skilled Nursing Home,226,153,1,$108323.64
+1443176,70 or Older,F,Other Race,3,Elective,Skilled Nursing Home,203,153,1,$75746.27
+1443181,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$73056.75
+1443182,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,3,$87733.87
+1443186,70 or Older,F,White,2,Elective,Skilled Nursing Home,203,153,1,$75794.86
+1443187,70 or Older,F,White,25,Urgent,Inpatient Rehabilitation Facility,237,153,3,$363555.25
+1443197,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$73038.23
+1443198,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$79246.77
+1443199,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$80709.90
+1443203,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$89100.62
+1443204,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$87777.29
+1443206,50 to 69,F,White,3,Elective,Skilled Nursing Home,237,153,3,$131861.29
+1443207,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$80132.72
+1443218,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80521.87
+1443230,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$76374.10
+1443231,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$83186.01
+1443233,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$84214.34
+1443238,18 to 29,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,1,$115288.66
+1443241,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$123522.34
+1443244,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$87380.94
+1443246,50 to 69,F,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$77006.36
+1443256,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$106481.98
+1443258,70 or Older,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$96268.64
+1443261,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$76071.39
+1443266,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$77345.13
+1443268,30 to 49,F,White,5,Urgent,Home w/ Home Health Services,237,153,3,$82430.20
+1443271,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$79724.08
+1443274,30 to 49,M,Black/African American,7,Elective,Inpatient Rehabilitation Facility,212,153,1,$164955.78
+1443275,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$114399.78
+1443282,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$106264.29
+1443283,18 to 29,F,White,2,Elective,Home w/ Home Health Services,212,153,1,$90981.33
+1443285,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$70809.24
+1443291,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$71226.40
+1443295,50 to 69,F,White,7,Elective,Skilled Nursing Home,237,153,3,$194431.72
+1443301,0 to 17,M,White,2,Elective,Home or Self Care,203,153,2,$96867.67
+1443306,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$95651.07
+1443314,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$113701.67
+1443316,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82919.22
+1443323,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$122435.79
+1443328,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83192.34
+1443329,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$101815.77
+1443330,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$76198.16
+1443334,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$76423.67
+1443338,50 to 69,F,White,2,Elective,Skilled Nursing Home,203,153,1,$73019.38
+1443341,50 to 69,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$80010.04
+1443344,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$88812.41
+1443347,70 or Older,M,White,10,Urgent,Home w/ Home Health Services,237,153,2,$149394.18
+1443348,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$92332.58
+1443349,50 to 69,F,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$88587.87
+1443352,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$99363.72
+1443354,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$75309.27
+1443362,50 to 69,M,White,3,Elective,Skilled Nursing Home,203,153,1,$86328.52
+1443363,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,3,$98329.18
+1443368,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$95628.67
+1443369,70 or Older,F,White,5,Urgent,Skilled Nursing Home,230,146,2,$182265.32
+1443371,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$85253.08
+1443376,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$107816.96
+1443378,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$91585.65
+1443382,50 to 69,M,White,3,Elective,Home w/ Home Health Services,198,153,2,$78121.22
+1443383,50 to 69,F,White,3,Elective,Home w/ Home Health Services,212,153,1,$77845.54
+1443384,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81931.23
+1443386,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85881.97
+1443408,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$88743.09
+1443410,70 or Older,M,White,4,Elective,Skilled Nursing Home,203,153,1,$89559.49
+1443411,30 to 49,M,Black/African American,3,Elective,Skilled Nursing Home,203,153,1,$81497.33
+1443420,50 to 69,F,White,3,Elective,Skilled Nursing Home,212,153,2,$76319.83
+1443423,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,2,$95007.10
+1443424,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$78658.08
+1443425,50 to 69,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,1,$213149.81
+1443426,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$82258.38
+1443428,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$86314.12
+1443430,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$114144.08
+1443434,50 to 69,F,White,5,Elective,Home w/ Home Health Services,237,153,3,$252479.01
+1443435,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89411.33
+1443436,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$124281.41
+1443438,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$74900.06
+1443450,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$82376.69
+1443459,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$87169.34
+1443464,50 to 69,M,White,1,Elective,Home or Self Care,203,153,1,$79936.42
+1443475,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$72763.32
+1443477,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$70335.17
+1443478,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$90516.72
+1443480,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$91894.04
+1443495,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$106470.55
+1443496,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$115417.45
+1443499,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80816.08
+1443500,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89790.22
+1443501,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$75207.30
+1443504,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$125521.87
+1443505,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,237,153,2,$91866.11
+1443508,30 to 49,M,White,2,Elective,Home or Self Care,203,153,2,$106779.13
+1443509,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$88373.22
+1443510,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$115710.93
+1443513,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$96961.58
+1443525,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$91350.29
+1443537,70 or Older,M,White,7,Elective,Skilled Nursing Home,203,153,2,$88395.71
+1443543,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$78804.84
+1443552,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$82710.23
+1443556,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$85450.13
+1443557,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$86642.54
+1443558,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80936.60
+1443561,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$82115.28
+1443562,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$114390.52
+1443564,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$71634.14
+1443567,30 to 49,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$68686.50
+1443575,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$72974.02
+1443579,70 or Older,M,White,4,Elective,Home w/ Home Health Services,203,153,3,$103710.62
+1443580,70 or Older,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$104353.28
+1443581,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$140479.37
+1443582,70 or Older,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$91529.09
+1443588,30 to 49,F,Black/African American,4,Elective,Skilled Nursing Home,225,153,2,$95617.15
+1443592,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$76379.25
+1443594,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81395.76
+1443595,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$83959.95
+1443598,70 or Older,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,1,$101598.48
+1443603,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,217,153,2,$76684.51
+1443604,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81985.19
+1443605,50 to 69,F,White,2,Elective,Home or Self Care,203,153,2,$88190.35
+1443606,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$80431.08
+1443612,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78953.95
+1443623,50 to 69,F,White,11,Urgent,Skilled Nursing Home,237,153,4,$268371.28
+1443625,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$71853.09
+1443626,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,237,153,3,$58819.14
+1443627,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$81994.30
+1443629,50 to 69,F,Multi-racial,2,Elective,Home w/ Home Health Services,203,153,2,$81426.55
+1443633,70 or Older,F,White,4,Elective,Skilled Nursing Home,42,153,3,$106121.83
+1443638,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$107153.24
+1443648,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$78205.49
+1443650,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$147444.15
+1443658,50 to 69,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$58351.11
+1443659,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$79385.52
+1443660,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$90990.13
+1443661,50 to 69,F,Black/African American,2,Elective,Home or Self Care,203,153,2,$75982.80
+1443666,30 to 49,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$127571.49
+1443668,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$83820.85
+1443681,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$101172.99
+1443685,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$88210.57
+1443687,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$83694.14
+1443690,70 or Older,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$74634.18
+1443693,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$73902.00
+1443694,30 to 49,M,Other Race,4,Elective,Home w/ Home Health Services,212,153,1,$103493.20
+1443699,50 to 69,M,White,2,Elective,Home or Self Care,237,153,3,$62197.17
+1443700,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$71955.45
+1443701,70 or Older,F,Black/African American,5,Elective,Skilled Nursing Home,237,153,3,$206095.94
+1443705,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$75963.26
+1443707,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$68663.64
+1443715,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$133594.23
+1443718,50 to 69,M,Other Race,3,Elective,Skilled Nursing Home,203,153,1,$135842.90
+1443721,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$134872.52
+1443726,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$81709.31
+1443730,70 or Older,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$77295.40
+1443747,18 to 29,F,Other Race,2,Elective,Home w/ Home Health Services,212,153,2,$80875.83
+1443751,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$96341.01
+1443754,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,225,153,1,$84915.88
+1443759,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$75268.31
+1443764,50 to 69,F,White,4,Elective,Home w/ Home Health Services,226,153,2,$74743.02
+1443770,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$83112.12
+1443777,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$80072.51
+1443788,50 to 69,F,White,11,Urgent,Skilled Nursing Home,237,153,3,$259279.22
+1443793,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$64208.37
+1443799,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$73792.03
+1443804,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$113037.36
+1443805,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$86074.12
+1443814,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$77340.79
+1443816,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$86995.17
+1443818,70 or Older,M,White,4,Elective,Skilled Nursing Home,203,153,2,$90456.55
+1443820,50 to 69,F,Black/African American,4,Elective,Skilled Nursing Home,203,153,2,$88704.76
+1443821,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$74840.26
+1443826,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$121161.48
+1443836,70 or Older,F,White,2,Elective,Home w/ Home Health Services,209,153,2,$77311.32
+1443845,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$75652.07
+1443847,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$84733.90
+1443848,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$86208.25
+1443863,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$81459.63
+1443870,30 to 49,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$113717.97
+1443891,70 or Older,M,White,16,Urgent,Skilled Nursing Home,237,153,3,$292250.43
+1443894,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$94395.60
+1443895,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$69204.20
+1443901,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$85272.27
+1443902,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,2,$86318.22
+1443904,50 to 69,M,Black/African American,3,Elective,Inpatient Rehabilitation Facility,212,153,2,$133001.11
+1443906,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$115399.78
+1443907,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$81889.43
+1443909,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89961.94
+1443910,50 to 69,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$156947.23
+1443912,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82256.70
+1443914,70 or Older,M,White,4,Elective,Home or Self Care,203,153,2,$90483.32
+1443915,50 to 69,F,White,2,Elective,Home or Self Care,203,153,1,$76871.83
+1443917,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$74855.09
+1443925,50 to 69,M,Multi-racial,3,Elective,Home w/ Home Health Services,203,153,2,$87162.45
+1443932,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$76950.60
+1443933,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$84253.96
+1443947,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$136817.09
+1443948,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$120884.34
+1443949,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$109106.73
+1443953,50 to 69,F,White,2,Elective,Home w/ Home Health Services,209,153,2,$68230.20
+1443954,30 to 49,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$180313.86
+1443955,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$114790.71
+1443960,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$74079.37
+1443962,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$74428.19
+1443963,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$137982.47
+1443964,50 to 69,M,White,7,Elective,Home w/ Home Health Services,203,153,1,$138069.73
+1443970,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,209,153,2,$183564.62
+1443974,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$76277.83
+1443982,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$106618.79
+1443984,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$86480.51
+1444000,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$73691.83
+1444005,50 to 69,F,White,4,Urgent,Home w/ Home Health Services,230,146,2,$105474.15
+1444009,70 or Older,M,White,3,Elective,Skilled Nursing Home,237,153,2,$150806.32
+1444012,50 to 69,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$131467.33
+1444015,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$101426.12
+1444018,50 to 69,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$133371.97
+1444020,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$94714.29
+1444027,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$94494.37
+1444028,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$72176.53
+1444030,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$79296.69
+1444032,30 to 49,F,White,3,Elective,Home w/ Home Health Services,217,153,1,$106992.95
+1444034,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$79239.27
+1444038,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$83526.78
+1444039,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$79090.24
+1444041,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$79810.88
+1444042,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$83450.36
+1444045,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79502.99
+1444046,70 or Older,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$86726.38
+1444047,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$75415.94
+1444050,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$80308.43
+1444051,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$82201.96
+1444053,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,1,$100572.58
+1444056,70 or Older,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$55435.34
+1444058,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$128044.29
+1444059,70 or Older,F,White,4,Elective,Skilled Nursing Home,237,153,3,$137611.81
+1444065,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$78254.64
+1444069,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$82125.46
+1444071,70 or Older,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$175935.66
+1444076,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$127893.09
+1444083,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$76280.57
+1444084,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$137413.65
+1444085,50 to 69,M,White,4,Elective,Inpatient Rehabilitation Facility,212,153,2,$163282.24
+1444087,50 to 69,F,White,6,Elective,Inpatient Rehabilitation Facility,237,153,3,$175407.46
+1444088,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$105552.03
+1444094,50 to 69,M,White,3,Elective,Skilled Nursing Home,203,153,2,$109105.68
+1444101,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$77884.90
+1444105,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$89090.52
+1444108,70 or Older,F,Black/African American,3,Elective,Skilled Nursing Home,237,153,2,$79993.78
+1444112,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$71327.86
+1444115,70 or Older,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$92635.78
+1444116,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$105510.40
+1444117,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$87189.13
+1444121,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$82116.48
+1444124,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$84422.78
+1444127,70 or Older,M,White,5,Elective,Skilled Nursing Home,203,153,1,$92177.23
+1444132,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$193649.99
+1444133,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$114187.77
+1444134,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$190203.23
+1444135,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$88097.15
+1444144,50 to 69,F,Other Race,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$77368.75
+1444146,30 to 49,F,White,1,Elective,Home w/ Home Health Services,209,153,3,$146944.27
+1444147,50 to 69,M,Black/African American,3,Elective,Skilled Nursing Home,212,153,2,$80792.84
+1444155,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$93414.62
+1444161,30 to 49,F,Other Race,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$131779.28
+1444172,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$80500.08
+1444175,30 to 49,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,3,$98184.16
+1444180,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$76151.30
+1444182,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$110173.06
+1444184,70 or Older,F,White,2,Elective,Skilled Nursing Home,203,153,2,$74665.85
+1444185,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,2,$95666.19
+1444187,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$81266.91
+1444189,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$72750.56
+1444190,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$98494.18
+1444191,50 to 69,F,White,4,Elective,Skilled Nursing Home,203,153,1,$185702.18
+1444193,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$101564.96
+1444197,30 to 49,F,Other Race,4,Elective,Home w/ Home Health Services,203,153,1,$174217.01
+1444213,50 to 69,M,White,3,Elective,Skilled Nursing Home,203,153,2,$82974.24
+1444214,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$81752.59
+1444220,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$92690.13
+1444222,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$79665.31
+1444224,50 to 69,M,White,7,Elective,Skilled Nursing Home,237,153,2,$89396.58
+1444226,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$86441.17
+1444233,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$108336.58
+1444234,50 to 69,F,White,3,Elective,Home or Self Care,203,153,2,$86472.49
+1444241,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$80614.68
+1444244,70 or Older,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$57954.21
+1444245,70 or Older,F,Black/African American,4,Elective,Skilled Nursing Home,237,153,3,$205388.04
+1444246,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,203,153,2,$94101.69
+1444247,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$97690.94
+1444249,30 to 49,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$123373.82
+1444250,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78867.47
+1444253,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$103760.60
+1444254,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$90864.12
+1444262,70 or Older,F,White,7,Elective,Home w/ Home Health Services,203,153,2,$165695.20
+1444263,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$95203.87
+1444264,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$94421.28
+1444271,70 or Older,M,White,2,Elective,Home w/ Home Health Services,212,153,2,$73179.73
+1444272,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$86002.48
+1444274,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$85367.02
+1444276,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$86202.36
+1444290,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$81014.40
+1444293,70 or Older,F,White,5,Elective,Inpatient Rehabilitation Facility,237,153,3,$118542.09
+1444304,30 to 49,F,White,5,Elective,Inpatient Rehabilitation Facility,202,153,2,$185699.17
+1444308,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$90510.71
+1444319,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$71533.43
+1444328,70 or Older,F,White,4,Elective,Home w/ Home Health Services,217,153,1,$93218.72
+1444336,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$101223.63
+1444342,50 to 69,F,White,6,Elective,Skilled Nursing Home,203,153,2,$211352.69
+1444354,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79259.41
+1444358,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$76175.41
+1444360,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$84684.71
+1444370,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$93135.65
+1444374,50 to 69,F,White,5,Elective,Skilled Nursing Home,203,153,2,$102497.82
+1444375,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$113400.94
+1444377,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,1,$80103.88
+1444378,30 to 49,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$203981.27
+1444382,30 to 49,M,White,2,Elective,Home or Self Care,203,153,2,$91946.98
+1444384,70 or Older,F,White,3,Elective,Home w/ Home Health Services,212,153,1,$131164.20
+1444386,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$97589.51
+1444389,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$75261.89
+1444390,70 or Older,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$80129.05
+1444392,50 to 69,F,White,3,Elective,Home or Self Care,203,153,1,$137747.61
+1444393,50 to 69,F,White,7,Elective,Skilled Nursing Home,203,153,1,$114062.87
+1444395,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$81222.14
+1444397,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$108672.80
+1444401,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$81490.83
+1444409,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,212,153,1,$121246.32
+1444410,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,225,153,2,$77204.14
+1444411,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$74518.36
+1444416,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$73002.06
+1444440,70 or Older,F,White,6,Elective,Skilled Nursing Home,237,153,3,$340677.32
+1444442,70 or Older,F,White,3,Elective,Home w/ Home Health Services,207,153,2,$84730.63
+1444445,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78032.81
+1444447,30 to 49,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,3,$105664.07
+1444450,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,225,153,2,$161081.46
+1444455,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,237,153,2,$76848.45
+1444456,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$82999.36
+1444458,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$82833.91
+1444463,70 or Older,F,White,7,Elective,Skilled Nursing Home,226,153,1,$115465.03
+1444464,70 or Older,M,Other Race,14,Elective,Skilled Nursing Home,237,153,3,$244401.22
+1444466,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$78325.87
+1444474,50 to 69,F,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$96668.59
+1444478,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,237,153,3,$150417.88
+1444479,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$117770.29
+1444492,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$116807.89
+1444495,30 to 49,F,White,2,Elective,Home w/ Home Health Services,217,153,2,$78602.68
+1444497,50 to 69,F,Multi-racial,4,Elective,Home w/ Home Health Services,237,153,2,$69220.85
+1444498,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$83976.13
+1444499,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$79971.20
+1444501,50 to 69,M,Black/African American,2,Elective,Home or Self Care,203,153,1,$88551.30
+1444511,70 or Older,F,White,5,Elective,Home w/ Home Health Services,237,153,1,$93684.74
+1444515,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$101342.96
+1444519,50 to 69,M,Black/African American,4,Elective,Home w/ Home Health Services,212,153,1,$91770.28
+1444523,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$73224.19
+1444524,50 to 69,F,Other Race,5,Elective,Skilled Nursing Home,212,153,2,$103392.91
+1444534,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$81452.73
+1444537,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$76403.43
+1444543,70 or Older,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$107380.86
+1444545,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$92961.49
+1444559,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$86751.96
+1444569,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$81564.52
+1444575,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83576.01
+1444584,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77349.49
+1444588,50 to 69,F,White,3,Elective,Skilled Nursing Home,225,153,2,$122956.82
+1444590,70 or Older,M,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$96289.71
+1444592,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$88043.51
+1444593,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$90209.12
+1444596,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$158903.62
+1444598,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$136701.19
+1444605,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83862.04
+1444612,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$68660.04
+1444615,70 or Older,M,White,10,Elective,Inpatient Rehabilitation Facility,203,153,3,$344440.70
+1444616,30 to 49,M,White,4,Elective,Inpatient Rehabilitation Facility,212,153,1,$154658.42
+1444626,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$83606.33
+1444628,50 to 69,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$163520.03
+1444633,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$111984.68
+1444634,50 to 69,M,White,2,Elective,Inpatient Rehabilitation Facility,225,153,1,$208237.16
+1444638,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$72591.14
+1444639,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$109991.01
+1444641,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$88629.84
+1444647,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$131383.33
+1444653,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77763.09
+1444654,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$101123.55
+1444656,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$128404.66
+1444658,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$110668.40
+1444659,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$121818.52
+1444664,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$86492.36
+1444666,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82070.85
+1444671,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$83071.91
+1444672,70 or Older,M,White,4,Elective,Home w/ Home Health Services,209,153,3,$199756.76
+1444678,50 to 69,F,White,5,Elective,Home w/ Home Health Services,203,153,1,$116569.49
+1444679,50 to 69,F,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$142762.66
+1444683,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$66400.97
+1444685,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$98481.56
+1444686,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$121223.06
+1444689,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$84491.01
+1444698,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$76873.71
+1444704,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80503.11
+1444707,70 or Older,F,White,4,Urgent,Inpatient Rehabilitation Facility,226,153,2,$128871.98
+1444708,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$88092.66
+1444710,70 or Older,M,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$90040.42
+1444716,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$73071.25
+1444718,70 or Older,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$92855.02
+1444723,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$83306.17
+1444724,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$103478.30
+1444725,50 to 69,F,White,3,Elective,Home w/ Home Health Services,217,153,1,$109611.46
+1444728,50 to 69,M,White,4,Elective,Home w/ Home Health Services,237,153,3,$135829.90
+1444731,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$78587.00
+1444734,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82106.16
+1444740,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$75245.53
+1444741,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$120263.46
+1444745,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$162820.57
+1444755,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$88000.75
+1444760,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,2,$157636.31
+1444761,30 to 49,F,Other Race,5,Elective,Home w/ Home Health Services,217,153,1,$204098.02
+1444765,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$85764.57
+1444768,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$103962.85
+1444769,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$93761.75
+1444770,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,212,153,1,$72182.86
+1444776,30 to 49,F,Other Race,4,Elective,Home w/ Home Health Services,217,153,2,$192549.91
+1444778,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$84723.46
+1444779,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$84284.17
+1444781,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$98698.41
+1444783,30 to 49,F,White,5,Elective,Skilled Nursing Home,202,153,3,$120405.47
+1444803,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$75377.00
+1444804,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$78352.94
+1444805,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$96069.40
+1444806,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$107025.54
+1444815,50 to 69,M,White,2,Elective,Skilled Nursing Home,203,153,2,$79034.77
+1444817,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$117392.46
+1444840,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$59359.99
+1444843,30 to 49,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$94100.45
+1444849,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$113786.14
+1444857,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$80184.93
+1444858,50 to 69,F,White,6,Urgent,Home w/ Home Health Services,237,153,2,$88506.60
+1444859,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$90164.51
+1444862,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$73602.39
+1444863,50 to 69,F,Black/African American,4,Elective,Skilled Nursing Home,203,153,2,$187863.28
+1444868,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$82562.81
+1444870,70 or Older,M,White,5,Elective,Skilled Nursing Home,203,153,3,$137746.67
+1444871,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$99224.87
+1444873,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$113407.31
+1444876,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77437.54
+1444882,50 to 69,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$107690.64
+1444886,70 or Older,F,Other Race,5,Urgent,Skilled Nursing Home,230,146,2,$177013.20
+1444891,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$98537.47
+1444895,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$104063.43
+1444896,30 to 49,M,White,2,Elective,Home w/ Home Health Services,212,153,1,$98820.56
+1444900,30 to 49,F,White,3,Elective,Home w/ Home Health Services,225,153,2,$84728.08
+1444903,18 to 29,F,Other Race,3,Elective,Home w/ Home Health Services,202,153,2,$151472.38
+1444907,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$89123.78
+1444908,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$86196.91
+1444911,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$127876.44
+1444912,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$98298.07
+1444914,50 to 69,F,White,3,Elective,Home w/ Home Health Services,217,153,2,$80746.93
+1444930,50 to 69,F,White,4,Elective,Skilled Nursing Home,203,153,2,$139456.51
+1444936,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$89849.58
+1444938,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$82376.33
+1444939,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$192382.59
+1444944,30 to 49,M,White,2,Elective,Inpatient Rehabilitation Facility,203,153,2,$152493.17
+1444947,70 or Older,F,White,5,Elective,Home w/ Home Health Services,203,153,2,$110299.22
+1444948,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$75183.92
+1444949,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$201581.14
+1444951,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$77962.71
+1444952,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$76374.32
+1444953,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$78304.82
+1444954,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78389.12
+1444955,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$84524.76
+1444966,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77007.18
+1444974,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$90420.07
+1444975,50 to 69,M,Black/African American,4,Elective,Home w/ Home Health Services,203,153,1,$91058.01
+1444983,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$85404.17
+1444988,50 to 69,M,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$145161.88
+1444990,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$75600.94
+1444993,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$86395.83
+1444995,50 to 69,F,White,3,Elective,Home w/ Home Health Services,198,153,1,$100932.41
+1444998,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,237,153,2,$57654.00
+1445000,70 or Older,F,Other Race,5,Elective,Skilled Nursing Home,203,153,2,$105838.88
+1445003,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$96943.23
+1445014,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$80732.15
+1445023,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$92703.94
+1445024,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$135802.17
+1445025,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$72990.93
+1445026,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$121562.67
+1445027,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$122732.72
+1445029,70 or Older,M,Other Race,2,Elective,Home or Self Care,203,153,1,$81204.11
+1445030,50 to 69,F,White,10,Elective,Inpatient Rehabilitation Facility,203,153,2,$204762.88
+1445031,70 or Older,F,White,3,Elective,Home w/ Home Health Services,212,153,2,$91135.83
+1445032,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$120669.04
+1445041,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85143.33
+1445046,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$94463.81
+1445047,50 to 69,F,Other Race,2,Elective,Skilled Nursing Home,203,153,2,$84328.72
+1445049,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78399.02
+1445050,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$83250.35
+1445054,30 to 49,M,White,2,Elective,Home w/ Home Health Services,212,153,1,$121201.52
+1445058,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$78457.05
+1445062,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$93146.89
+1445064,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$75607.42
+1445066,50 to 69,M,White,3,Elective,Skilled Nursing Home,237,153,2,$151923.12
+1445068,50 to 69,F,Black/African American,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$129784.16
+1445072,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$118529.08
+1445073,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,3,$92667.82
+1445077,50 to 69,F,White,2,Elective,Skilled Nursing Home,203,153,2,$82574.67
+1445082,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$86624.69
+1445083,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$78680.80
+1445085,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$87041.32
+1445097,50 to 69,F,White,6,Elective,Home w/ Home Health Services,203,153,2,$107200.35
+1445098,70 or Older,M,White,8,Elective,Skilled Nursing Home,203,153,3,$256291.64
+1445099,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$99872.14
+1445103,30 to 49,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$47936.99
+1445108,70 or Older,F,White,8,Urgent,Skilled Nursing Home,226,153,2,$153457.58
+1445109,70 or Older,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$118689.23
+1445111,50 to 69,F,Black/African American,5,Elective,Inpatient Rehabilitation Facility,203,153,2,$103729.96
+1445116,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$87526.14
+1445117,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$95818.13
+1445125,50 to 69,M,White,4,Urgent,Home w/ Home Health Services,237,153,2,$85624.04
+1445133,70 or Older,F,White,12,Urgent,Skilled Nursing Home,237,153,2,$134213.61
+1445134,70 or Older,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$80479.99
+1445137,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$96330.11
+1445147,70 or Older,M,White,5,Elective,Skilled Nursing Home,226,153,2,$135441.67
+1445152,70 or Older,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$117019.16
+1445158,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$127892.67
+1445160,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$128450.59
+1445167,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$88872.47
+1445174,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$115162.32
+1445182,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$88577.49
+1445183,50 to 69,M,Multi-racial,3,Elective,Home w/ Home Health Services,203,153,2,$106833.40
+1445186,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$83707.74
+1445187,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$98146.69
+1445190,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$94252.50
+1445192,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,3,$91162.76
+1445193,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$82107.83
+1445196,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$85512.77
+1445206,70 or Older,F,White,2,Elective,Home or Self Care,203,153,2,$90304.79
+1445214,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$83993.29
+1445216,70 or Older,F,Black/African American,4,Elective,Skilled Nursing Home,203,153,2,$101131.66
+1445220,30 to 49,M,Black/African American,5,Elective,Home w/ Home Health Services,203,153,1,$127983.79
+1445222,18 to 29,F,Black/African American,3,Elective,Home or Self Care,217,153,1,$133467.21
+1445225,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$80361.77
+1445226,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$85974.64
+1445231,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$126291.76
+1445232,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$115564.28
+1445234,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$181271.34
+1445239,70 or Older,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$90318.50
+1445245,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$132610.02
+1445246,70 or Older,F,White,3,Elective,Inpatient Rehabilitation Facility,237,153,2,$76297.32
+1445252,50 to 69,M,Black/African American,5,Elective,Home w/ Home Health Services,203,153,3,$118955.30
+1445253,70 or Older,M,White,6,Elective,Skilled Nursing Home,203,153,2,$141133.71
+1445256,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$95073.22
+1445260,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$97838.43
+1445272,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$94535.70
+1445273,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$119499.65
+1445277,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$98163.45
+1445279,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$82549.93
+1445280,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$88911.01
+1445284,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$86248.77
+1445300,50 to 69,M,White,5,Emergency,Skilled Nursing Home,226,153,1,$144448.53
+1445306,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$98327.99
+1445313,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$74276.37
+1445319,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$85516.82
+1445326,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$121604.01
+1445329,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$131931.77
+1445330,50 to 69,M,White,3,Elective,Home w/ Home Health Services,231,153,2,$124457.51
+1445333,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$76455.36
+1445335,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,237,153,2,$205136.49
+1445340,70 or Older,F,White,8,Emergency,Inpatient Rehabilitation Facility,226,153,1,$191312.35
+1445364,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$76527.19
+1445370,30 to 49,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$98231.34
+1445378,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$98964.88
+1445402,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$92338.76
+1445403,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$118723.28
+1445408,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$91552.17
+1445422,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$84130.88
+1445424,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$96637.23
+1445425,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$68805.83
+1445429,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82805.67
+1445440,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$81746.68
+1445449,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$94188.20
+1445453,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$72795.61
+1445455,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$82421.88
+1445457,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$85878.07
+1445483,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$126308.80
+1445484,70 or Older,M,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$103595.21
+1445486,70 or Older,M,White,6,Elective,Home w/ Home Health Services,237,153,3,$306284.30
+1445500,30 to 49,F,Other Race,4,Elective,Home w/ Home Health Services,203,153,1,$88152.38
+1445504,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$115278.88
+1445507,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$87506.95
+1445517,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,212,153,1,$84215.34
+1445519,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81454.49
+1445523,50 to 69,F,Other Race,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$137744.64
+1445533,70 or Older,M,White,6,Elective,Skilled Nursing Home,226,153,2,$154944.58
+1445537,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81206.70
+1445539,50 to 69,F,White,3,Elective,Home w/ Home Health Services,202,153,2,$78606.54
+1445558,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$91565.67
+1445565,30 to 49,F,White,3,Elective,Home w/ Home Health Services,212,153,2,$127356.50
+1445566,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,202,153,2,$103680.11
+1445567,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$79009.22
+1445569,50 to 69,F,White,2,Elective,Home w/ Home Health Services,212,153,2,$71968.12
+1445578,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83475.85
+1445584,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,3,$81245.60
+1445585,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$73492.14
+1445594,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82977.42
+1445596,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,237,153,3,$103827.17
+1445615,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$80630.71
+1445616,50 to 69,F,Other Race,8,Elective,Skilled Nursing Home,203,153,2,$201915.61
+1445618,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$87630.49
+1445622,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$105091.92
+1445625,70 or Older,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$100942.43
+1445628,70 or Older,M,White,4,Emergency,Inpatient Rehabilitation Facility,226,153,1,$90690.14
+1445631,70 or Older,F,White,4,Emergency,Inpatient Rehabilitation Facility,226,153,1,$85073.40
+1445633,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$113565.73
+1445642,50 to 69,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$84668.76
+1445648,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$119578.61
+1445661,70 or Older,F,White,2,Elective,Skilled Nursing Home,237,153,2,$107108.31
+1445664,50 to 69,F,White,3,Elective,Home or Self Care,203,153,2,$108343.41
+1445665,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$116436.81
+1445671,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$79568.44
+1445674,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$84024.89
+1445675,18 to 29,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$107821.08
+1445676,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80594.53
+1445679,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$103192.70
+1445682,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$91109.35
+1445693,50 to 69,F,White,2,Elective,Home w/ Home Health Services,212,153,2,$65589.36
+1445698,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$80298.95
+1445714,70 or Older,F,Other Race,3,Elective,Skilled Nursing Home,203,153,2,$84329.30
+1445715,70 or Older,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$83777.66
+1445720,70 or Older,F,White,13,Elective,Inpatient Rehabilitation Facility,207,153,2,$337972.50
+1445721,30 to 49,M,White,4,Urgent,Home w/ Home Health Services,237,153,3,$67914.63
+1445726,70 or Older,F,White,7,Elective,Home w/ Home Health Services,203,153,2,$153242.07
+1445729,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$87128.11
+1445738,70 or Older,F,White,2,Elective,Skilled Nursing Home,203,153,1,$96281.21
+1445739,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$102658.06
+1445741,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$84982.97
+1445742,50 to 69,M,White,3,Elective,Skilled Nursing Home,203,153,2,$97929.20
+1445745,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81415.61
+1445746,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,2,$106220.53
+1445747,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$101763.13
+1445748,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$94204.55
+1445754,70 or Older,M,White,7,Elective,Skilled Nursing Home,203,153,3,$109499.92
+1445759,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$90992.35
+1445760,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$95569.02
+1445762,50 to 69,M,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$98731.79
+1445775,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$103960.24
+1445776,0 to 17,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79648.43
+1445777,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$86309.53
+1445778,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$99011.09
+1445779,70 or Older,F,White,4,Elective,Home w/ Home Health Services,237,153,3,$80537.64
+1445780,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78168.60
+1445785,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$89254.39
+1445791,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$79389.52
+1445792,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$105828.93
+1445794,50 to 69,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$95535.82
+1445797,50 to 69,M,White,2,Elective,Home w/ Home Health Services,212,153,2,$91698.98
+1445801,50 to 69,M,White,6,Elective,Home w/ Home Health Services,203,153,2,$139790.36
+1445803,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81876.42
+1445805,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$88483.07
+1445807,50 to 69,F,Other Race,1,Elective,Home w/ Home Health Services,203,153,2,$82968.35
+1445817,50 to 69,M,Black/African American,7,Urgent,Skilled Nursing Home,237,153,2,$114839.25
+1445821,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$135962.41
+1445833,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$75647.44
+1445841,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$72366.21
+1445848,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$86773.36
+1445849,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$85651.97
+1445853,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$106279.26
+1445854,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$82232.40
+1445855,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$133247.16
+1445857,18 to 29,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$97900.98
+1445858,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$102652.39
+1445860,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,217,153,1,$88260.50
+1445861,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$104369.16
+1445864,70 or Older,F,White,5,Emergency,Skilled Nursing Home,226,153,1,$103784.11
+1445865,70 or Older,F,White,4,Emergency,Home w/ Home Health Services,226,153,1,$85159.95
+1445870,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$173001.93
+1445874,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$77281.38
+1445882,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$74559.02
+1445886,50 to 69,F,White,3,Elective,Home w/ Home Health Services,204,153,2,$77781.42
+1445887,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$138219.11
+1445888,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$85367.95
+1445894,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$76559.60
+1445895,70 or Older,M,White,3,Elective,Skilled Nursing Home,203,153,3,$95967.53
+1445898,50 to 69,F,Black/African American,7,Elective,Home w/ Home Health Services,203,153,2,$127848.14
+1445900,30 to 49,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$101042.70
+1445906,70 or Older,M,White,6,Elective,Home w/ Home Health Services,203,153,3,$83930.56
+1445908,50 to 69,M,White,2,Elective,Home w/ Home Health Services,212,153,2,$90190.30
+1445912,70 or Older,F,White,6,Emergency,Skilled Nursing Home,226,153,1,$108542.63
+1445913,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$169237.75
+1445915,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$92218.07
+1445918,50 to 69,F,White,4,Urgent,Home w/ Home Health Services,237,153,2,$74335.78
+1445931,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$131890.20
+1445933,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$80622.76
+1445936,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$89871.50
+1445939,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$92385.85
+1445941,70 or Older,F,White,3,Elective,Skilled Nursing Home,237,153,2,$110091.75
+1445942,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,212,153,2,$99180.63
+1445943,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$124898.21
+1445946,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,3,$102138.89
+1445951,50 to 69,M,Black/African American,2,Elective,Home or Self Care,203,153,2,$92555.19
+1445952,50 to 69,F,White,4,Elective,Inpatient Rehabilitation Facility,237,153,3,$108183.08
+1445963,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$79226.59
+1445964,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$74781.12
+1445970,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$84728.64
+1445971,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$77611.03
+1445975,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$70168.01
+1445992,50 to 69,M,White,5,Elective,Inpatient Rehabilitation Facility,203,153,3,$107927.94
+1445994,70 or Older,F,White,5,Emergency,Skilled Nursing Home,237,153,2,$103057.34
+1445998,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$87908.88
+1446004,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$87269.73
+1446007,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$108779.03
+1446009,50 to 69,M,White,5,Urgent,Home w/ Home Health Services,237,153,2,$87094.20
+1446010,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$84393.95
+1446011,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$92033.59
+1446012,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$81257.51
+1446013,70 or Older,F,White,4,Emergency,Home w/ Home Health Services,226,153,1,$78962.51
+1446021,70 or Older,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$83119.50
+1446027,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$84108.90
+1446029,70 or Older,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$115511.19
+1446030,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$79380.42
+1446032,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$74740.78
+1446033,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$84859.43
+1446034,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$90323.71
+1446036,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$88469.10
+1446043,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$103794.45
+1446044,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$84347.84
+1446047,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,2,$94748.44
+1446048,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$116692.07
+1446050,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$86054.61
+1446052,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78001.43
+1446054,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$103807.08
+1446063,30 to 49,F,White,4,Elective,Inpatient Rehabilitation Facility,217,153,1,$237199.40
+1446065,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$111518.17
+1446070,70 or Older,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$79005.78
+1446071,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$77281.76
+1446075,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$93539.84
+1446076,50 to 69,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$136766.44
+1446082,70 or Older,F,White,3,Elective,Skilled Nursing Home,202,153,2,$98719.63
+1446085,50 to 69,F,Black/African American,4,Elective,Skilled Nursing Home,203,153,2,$103678.47
+1446089,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$68807.56
+1446093,50 to 69,M,White,4,Elective,Home w/ Home Health Services,226,153,3,$94974.41
+1446099,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$146929.52
+1446104,50 to 69,F,White,2,Elective,Skilled Nursing Home,203,153,2,$81329.67
+1446117,50 to 69,F,Black/African American,11,Urgent,Skilled Nursing Home,230,153,3,$270096.62
+1446119,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$89341.41
+1446120,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$93643.24
+1446121,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$129096.71
+1446122,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$78930.52
+1446124,50 to 69,F,White,4,Elective,Skilled Nursing Home,203,153,2,$113390.86
+1446132,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$129014.12
+1446135,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,237,153,2,$172234.13
+1446142,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,3,$101920.87
+1446143,70 or Older,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,1,$85222.88
+1446146,50 to 69,F,White,4,Elective,Home w/ Home Health Services,237,153,2,$134864.36
+1446147,50 to 69,F,White,3,Elective,Short-term Hospital,203,153,1,$181403.41
+1446150,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$83122.40
+1446162,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89127.94
+1446178,70 or Older,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$92607.83
+1446180,70 or Older,M,White,4,Elective,Skilled Nursing Home,203,153,3,$144139.22
+1446183,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$99550.16
+1446184,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$71833.11
+1446193,50 to 69,M,Black/African American,1,Elective,Home w/ Home Health Services,203,153,2,$84848.47
+1446196,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$86925.86
+1446202,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$121163.08
+1446204,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,2,$138721.30
+1446208,50 to 69,F,Black/African American,3,Elective,Skilled Nursing Home,237,153,2,$107195.41
+1446212,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$78941.86
+1446213,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$88453.44
+1446219,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$102386.09
+1446225,70 or Older,F,Other Race,5,Elective,Skilled Nursing Home,237,153,3,$177172.27
+1446233,50 to 69,F,Black/African American,9,Elective,Home w/ Home Health Services,203,153,2,$121625.70
+1446238,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$70485.54
+1446239,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79648.93
+1446240,70 or Older,F,White,2,Elective,Skilled Nursing Home,212,153,1,$79485.67
+1446251,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$83284.43
+1446256,50 to 69,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$94376.26
+1446257,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$79636.56
+1446258,50 to 69,F,Multi-racial,3,Elective,Home w/ Home Health Services,203,153,2,$83869.22
+1446259,70 or Older,F,White,6,Elective,Skilled Nursing Home,203,153,2,$101200.40
+1446265,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$116099.29
+1446271,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$128724.56
+1446280,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$95858.95
+1446286,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$121746.38
+1446289,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$71358.01
+1446292,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$88539.91
+1446298,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$72919.47
+1446299,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$82763.71
+1446301,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$97152.77
+1446304,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$64151.81
+1446311,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$104822.79
+1446312,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$138713.80
+1446314,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80691.48
+1446321,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$87406.44
+1446322,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$96206.62
+1446326,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$113629.26
+1446327,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$117777.89
+1446328,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$108899.48
+1446329,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$86634.48
+1446330,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$115362.39
+1446331,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$85883.82
+1446332,50 to 69,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$193301.02
+1446333,70 or Older,F,White,2,Elective,Skilled Nursing Home,203,153,2,$79882.19
+1446334,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$115748.42
+1446335,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$88490.52
+1446340,70 or Older,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$98045.84
+1446342,50 to 69,M,White,2,Elective,Home or Self Care,237,153,2,$80099.68
+1446355,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$89426.11
+1446358,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$93358.50
+1446359,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,3,$85193.33
+1446363,50 to 69,F,White,4,Elective,Inpatient Rehabilitation Facility,237,153,2,$234977.62
+1446368,50 to 69,M,Black/African American,5,Elective,Skilled Nursing Home,209,153,3,$149439.71
+1446369,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$75417.06
+1446375,70 or Older,M,White,2,Elective,Home w/ Home Health Services,198,153,2,$94558.25
+1446376,70 or Older,F,White,10,Emergency,Skilled Nursing Home,226,153,3,$144753.37
+1446381,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81912.27
+1446383,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$80607.36
+1446406,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$83890.52
+1446412,50 to 69,F,White,3,Elective,Skilled Nursing Home,237,153,2,$168824.64
+1446414,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$85926.83
+1446418,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$87706.17
+1446420,50 to 69,M,White,4,Elective,Home w/ Home Health Services,209,153,3,$159660.32
+1446423,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$76720.27
+1446425,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$92235.56
+1446426,70 or Older,F,White,4,Elective,Skilled Nursing Home,212,153,3,$96137.62
+1446428,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,3,$87033.34
+1446430,70 or Older,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$86931.64
+1446442,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,3,$114716.52
+1446443,70 or Older,M,White,2,Elective,Inpatient Rehabilitation Facility,212,153,2,$79275.59
+1446448,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$96550.35
+1446457,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,237,153,2,$63878.71
+1446461,30 to 49,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$114735.05
+1446469,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$118664.38
+1446472,30 to 49,M,White,4,Elective,Inpatient Rehabilitation Facility,203,153,1,$213073.99
+1446474,30 to 49,M,White,5,Elective,Skilled Nursing Home,212,153,2,$172432.73
+1446478,70 or Older,F,White,4,Elective,Home w/ Home Health Services,237,153,3,$132053.54
+1446487,70 or Older,M,White,6,Elective,Home w/ Home Health Services,203,153,3,$129004.43
+1446500,70 or Older,M,White,3,Elective,Skilled Nursing Home,203,153,1,$108878.54
+1446502,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$100047.04
+1446505,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$101156.01
+1446506,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$133004.66
+1446510,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$79481.50
+1446512,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$82114.32
+1446513,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$145092.62
+1446514,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$77005.34
+1446519,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$75227.64
+1446520,50 to 69,F,White,7,Elective,Skilled Nursing Home,212,153,1,$104815.99
+1446523,30 to 49,M,White,2,Elective,Home w/ Home Health Services,202,153,3,$84518.99
+1446531,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$98409.76
+1446534,70 or Older,F,Black/African American,4,Elective,Home w/ Home Health Services,203,153,2,$96780.23
+1446535,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$86602.85
+1446536,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$125811.76
+1446539,70 or Older,M,White,6,Elective,Home w/ Home Health Services,237,153,2,$125755.76
+1446541,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$90308.98
+1446542,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$83433.75
+1446549,50 to 69,F,White,5,Elective,Skilled Nursing Home,203,153,3,$128612.93
+1446553,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,237,153,2,$120039.98
+1446554,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,3,$68162.78
+1446555,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78812.31
+1446557,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83185.46
+1446560,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$81945.36
+1446565,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$91684.25
+1446569,50 to 69,F,White,8,Elective,Home w/ Home Health Services,203,153,3,$137713.36
+1446570,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$69734.52
+1446578,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$143114.13
+1446584,50 to 69,M,White,2,Elective,Skilled Nursing Home,203,153,2,$68041.64
+1446590,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$155994.79
+1446593,70 or Older,M,White,3,Elective,Skilled Nursing Home,237,153,3,$148478.41
+1446596,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,203,153,2,$114901.30
+1446602,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$94547.44
+1446610,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$89893.68
+1446616,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$96462.66
+1446617,50 to 69,M,Black/African American,19,Elective,Skilled Nursing Home,209,153,3,$585367.95
+1446620,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$130857.33
+1446626,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$84302.92
+1446628,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$84776.89
+1446629,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$89435.13
+1446630,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$134636.75
+1446638,50 to 69,M,White,8,Elective,Skilled Nursing Home,237,153,2,$161045.42
+1446643,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$127698.27
+1446644,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81564.42
+1446651,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$86529.48
+1446653,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78860.96
+1446654,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$115603.16
+1446655,50 to 69,M,White,4,Elective,Home w/ Home Health Services,237,153,3,$103845.82
+1446662,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,225,153,1,$95934.40
+1446663,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$98106.29
+1446667,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$88737.65
+1446668,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$83829.04
+1446670,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$85797.79
+1446677,70 or Older,F,White,4,Emergency,Inpatient Rehabilitation Facility,226,153,1,$87697.29
+1446687,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,237,153,3,$170391.13
+1446698,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$76007.56
+1446704,70 or Older,M,White,4,Elective,Skilled Nursing Home,203,153,2,$92446.07
+1446705,50 to 69,M,White,5,Elective,Skilled Nursing Home,203,153,1,$92325.90
+1446713,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$111954.91
+1446715,70 or Older,F,White,3,Elective,Skilled Nursing Home,237,153,2,$113130.70
+1446716,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$190379.71
+1446719,50 to 69,M,White,3,Elective,Skilled Nursing Home,212,153,3,$112759.54
+1446726,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,3,$91138.84
+1446730,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81951.00
+1446731,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79658.12
+1446738,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$150905.82
+1446743,70 or Older,F,Other Race,3,Elective,Inpatient Rehabilitation Facility,226,153,1,$84201.38
+1446747,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$112199.52
+1446750,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$106004.18
+1446751,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78495.80
+1446759,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,3,$136695.48
+1446761,70 or Older,M,White,3,Elective,Skilled Nursing Home,203,153,2,$94489.46
+1446762,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$97980.99
+1446768,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$110892.59
+1446769,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$122473.09
+1446772,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$101436.60
+1446775,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$87112.40
+1446776,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$80212.53
+1446785,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$90481.17
+1446788,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$74036.85
+1446789,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$82465.02
+1446793,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$95070.47
+1446797,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$78419.41
+1446807,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80416.11
+1446813,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$88444.68
+1446818,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,237,153,2,$96356.76
+1446824,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$91406.08
+1446835,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$99062.23
+1446837,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$94919.71
+1446847,50 to 69,M,Other Race,4,Elective,Home w/ Home Health Services,212,153,3,$92682.52
+1446853,30 to 49,M,Other Race,3,Elective,Home w/ Home Health Services,212,153,2,$105501.23
+1446854,70 or Older,M,White,6,Elective,Home w/ Home Health Services,226,146,2,$141944.49
+1446866,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,203,153,2,$83879.93
+1446869,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$60817.07
+1446870,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$98136.90
+1446882,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$85977.19
+1446890,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$106697.08
+1446891,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$137715.75
+1446911,50 to 69,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$63868.61
+1446914,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$102890.71
+1446920,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$81888.64
+1446924,70 or Older,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$83867.12
+1446925,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$120741.96
+1446928,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$117819.68
+1446930,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$153995.04
+1446935,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$84222.91
+1446939,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$101052.55
+1446946,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$84879.93
+1446947,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$92487.16
+1446948,70 or Older,F,Other Race,4,Elective,Skilled Nursing Home,203,153,2,$100957.60
+1446949,50 to 69,F,White,3,Elective,Home w/ Home Health Services,225,153,2,$98593.06
+1446951,30 to 49,F,Other Race,6,Elective,Home w/ Home Health Services,217,153,2,$246390.82
+1446952,18 to 29,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$119216.25
+1446954,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$98663.71
+1446955,50 to 69,F,White,2,Elective,Home or Self Care,237,153,2,$173895.77
+1446961,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$90456.14
+1446962,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$129864.77
+1446963,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,3,$97313.91
+1446965,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$101982.99
+1446966,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$135255.44
+1446968,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$86427.60
+1446976,50 to 69,M,White,5,Emergency,Home w/ Home Health Services,237,146,2,$101345.55
+1446978,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,237,153,2,$65100.27
+1446986,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$78708.03
+1446987,50 to 69,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$142787.79
+1446989,70 or Older,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$129610.43
+1446993,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$105621.59
+1446994,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$87007.39
+1447000,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82032.75
+1447001,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$83005.95
+1447007,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$97201.81
+1447008,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,212,153,2,$69592.59
+1447009,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$92598.56
+1447019,50 to 69,F,Other Race,5,Elective,Home w/ Home Health Services,203,153,1,$112151.50
+1447030,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$87056.71
+1447031,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$85106.93
+1447032,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$80346.49
+1447036,50 to 69,F,White,6,Urgent,Skilled Nursing Home,237,153,2,$91920.98
+1447037,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$102920.34
+1447042,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$74661.54
+1447043,70 or Older,F,White,7,Emergency,Skilled Nursing Home,226,153,1,$137379.45
+1447049,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$90120.88
+1447059,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$87090.25
+1447062,70 or Older,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$78122.53
+1447064,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$88671.64
+1447065,30 to 49,F,Other Race,4,Elective,Home w/ Home Health Services,212,153,2,$96362.14
+1447072,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$82643.34
+1447073,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$96926.55
+1447085,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$85559.82
+1447087,30 to 49,F,Other Race,6,Elective,Home w/ Home Health Services,203,153,2,$119924.38
+1447088,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$103453.89
+1447091,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$104992.22
+1447097,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$89143.08
+1447099,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$84435.65
+1447100,30 to 49,F,Other Race,4,Elective,Skilled Nursing Home,203,153,2,$166148.85
+1447104,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$96082.94
+1447107,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$77756.02
+1447110,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,225,153,2,$106712.70
+1447111,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$85377.49
+1447118,18 to 29,F,Other Race,3,Elective,Skilled Nursing Home,217,153,2,$169287.54
+1447122,70 or Older,M,Black/African American,3,Elective,Skilled Nursing Home,203,153,2,$122894.99
+1447126,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,3,$164668.14
+1447131,50 to 69,M,Black/African American,4,Elective,Home w/ Home Health Services,237,153,2,$79419.41
+1447132,50 to 69,M,White,5,Elective,Home w/ Home Health Services,237,153,2,$81723.72
+1447135,70 or Older,M,White,11,Emergency,Skilled Nursing Home,226,153,2,$138434.35
+1447147,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$95900.32
+1447150,50 to 69,F,Multi-racial,2,Elective,Home w/ Home Health Services,217,153,1,$151449.12
+1447155,50 to 69,F,Other Race,3,Elective,Skilled Nursing Home,203,153,2,$114337.44
+1447173,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$85492.01
+1447174,30 to 49,M,Black/African American,4,Elective,Home w/ Home Health Services,203,153,1,$125001.96
+1447175,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$85205.70
+1447178,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$86504.81
+1447180,50 to 69,F,White,3,Elective,Skilled Nursing Home,203,153,1,$99326.61
+1447190,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,202,153,3,$114117.61
+1447192,50 to 69,M,White,2,Elective,Skilled Nursing Home,203,153,2,$123389.55
+1447193,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$82827.04
+1447195,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$121897.77
+1447197,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$91952.02
+1447207,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$102757.94
+1447212,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$61772.05
+1447215,70 or Older,F,White,9,Elective,Skilled Nursing Home,237,153,3,$243292.76
+1447217,50 to 69,F,White,3,Elective,Skilled Nursing Home,209,153,3,$164670.83
+1447221,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$104367.67
+1447234,70 or Older,F,White,3,Urgent,Skilled Nursing Home,226,153,1,$95465.06
+1447235,70 or Older,M,White,6,Elective,Home w/ Home Health Services,203,153,3,$142481.43
+1447237,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$105834.98
+1447238,70 or Older,M,White,5,Elective,Home w/ Home Health Services,237,153,3,$306309.30
+1447247,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$75525.22
+1447250,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$82426.07
+1447258,50 to 69,F,White,6,Elective,Inpatient Rehabilitation Facility,203,153,2,$134522.62
+1447261,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$81592.66
+1447266,70 or Older,M,White,3,Elective,Home w/ Home Health Services,237,153,2,$97666.31
+1447270,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$94635.32
+1447274,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$80718.48
+1447275,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$96908.36
+1447281,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$101949.28
+1447283,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$94315.84
+1447284,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$90531.48
+1447286,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$95259.79
+1447287,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$110735.99
+1447291,70 or Older,M,White,2,Elective,Home w/ Home Health Services,225,153,1,$132137.24
+1447296,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$83535.55
+1447300,50 to 69,F,White,7,Urgent,Skilled Nursing Home,237,153,3,$127712.68
+1447305,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$79829.12
+1447308,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$88992.95
+1447310,70 or Older,M,White,7,Urgent,Skilled Nursing Home,230,153,3,$232596.14
+1447314,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$78651.11
+1447326,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$116607.49
+1447328,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$120230.14
+1447336,50 to 69,F,Other Race,3,Emergency,Home w/ Home Health Services,237,153,2,$85077.40
+1447338,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$96652.24
+1447339,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$105409.71
+1447340,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$97829.47
+1447346,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$102964.21
+1447349,70 or Older,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$93506.43
+1447354,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,3,$113605.97
+1447363,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$118579.48
+1447369,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$95374.38
+1447381,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$93793.79
+1447382,50 to 69,M,Black/African American,5,Elective,Inpatient Rehabilitation Facility,203,153,2,$122581.79
+1447384,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$92439.22
+1447386,50 to 69,M,White,5,Elective,Home w/ Home Health Services,203,153,2,$129561.59
+1447388,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$85431.54
+1447390,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$114538.57
+1447392,50 to 69,M,White,6,Elective,Home w/ Home Health Services,203,153,2,$174495.84
+1447399,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$119273.16
+1447401,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$92633.29
+1447405,70 or Older,F,White,2,Elective,Inpatient Rehabilitation Facility,203,153,2,$137939.57
+1447406,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$135186.53
+1447411,50 to 69,F,White,3,Elective,Skilled Nursing Home,237,153,2,$172222.14
+1447414,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$106635.93
+1447416,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$74144.88
+1447418,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$89192.65
+1447419,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$109361.73
+1447420,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$170157.70
+1447421,50 to 69,F,White,7,Elective,Skilled Nursing Home,203,153,2,$113956.29
+1447426,70 or Older,F,Other Race,4,Elective,Skilled Nursing Home,207,153,2,$106862.75
+1447427,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$83256.17
+1447428,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$89659.55
+1447430,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,3,$80107.20
+1447435,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$81929.36
+1447439,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$117294.56
+1447441,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$96191.51
+1447451,50 to 69,M,White,7,Emergency,Home w/ Home Health Services,237,153,3,$108339.24
+1447458,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83588.97
+1447459,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$87556.90
+1447460,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,237,153,2,$110369.36
+1447463,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$92184.11
+1447465,70 or Older,M,White,2,Elective,Home w/ Home Health Services,237,153,3,$84389.21
+1447467,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$134685.36
+1447469,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$90828.18
+1447473,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,237,153,2,$220461.03
+1447476,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$85088.86
+1447478,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$102796.33
+1447483,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$77011.55
+1447486,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$83383.07
+1447489,50 to 69,M,White,6,Elective,Home w/ Home Health Services,237,153,2,$203312.47
+1447500,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$105392.82
+1447508,70 or Older,F,Multi-racial,1,Elective,Home w/ Home Health Services,203,153,1,$80178.38
+1447509,50 to 69,F,Black/African American,6,Urgent,Home w/ Home Health Services,237,153,2,$175533.93
+1447513,70 or Older,M,White,5,Emergency,Skilled Nursing Home,226,153,1,$89659.99
+1447518,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$87512.66
+1447521,50 to 69,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$207655.74
+1447524,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$90941.71
+1447526,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$108998.75
+1447527,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$89188.80
+1447534,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$86266.82
+1447536,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,1,$124301.03
+1447537,18 to 29,M,Other Race,2,Elective,Home w/ Home Health Services,212,153,2,$120605.89
+1447539,70 or Older,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$79923.30
+1447541,50 to 69,M,White,3,Elective,Skilled Nursing Home,203,153,2,$99033.11
+1447543,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$93009.45
+1447544,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$82476.31
+1447553,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$132589.10
+1447565,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$78798.10
+1447566,50 to 69,M,White,1,Elective,Home or Self Care,203,153,2,$90811.66
+1447572,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89283.01
+1447573,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$102913.40
+1447578,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$78296.06
+1447582,30 to 49,F,White,3,Elective,Skilled Nursing Home,217,153,2,$104554.60
+1447595,50 to 69,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$172395.76
+1447600,50 to 69,F,Other Race,5,Elective,Home w/ Home Health Services,203,153,3,$140917.53
+1447610,70 or Older,F,White,5,Elective,Skilled Nursing Home,203,153,2,$102442.66
+1447611,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$87519.89
+1447613,50 to 69,F,Other Race,1,Elective,Home w/ Home Health Services,203,153,2,$81009.87
+1447614,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$89397.23
+1447615,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$90280.69
+1447617,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$102554.94
+1447623,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$83581.36
+1447624,50 to 69,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,3,$131065.44
+1447626,70 or Older,F,White,6,Elective,Home w/ Home Health Services,203,153,2,$135898.88
+1447629,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$111749.40
+1447640,18 to 29,M,Black/African American,3,Elective,Home w/ Home Health Services,217,153,2,$192568.32
+1447648,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$89757.23
+1447653,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$74915.94
+1447657,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82360.90
+1447661,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$85019.19
+1447663,50 to 69,M,Black/African American,5,Elective,Skilled Nursing Home,237,153,2,$265274.33
+1447665,70 or Older,F,Other Race,4,Elective,Skilled Nursing Home,203,153,1,$91386.41
+1447668,70 or Older,F,White,2,Elective,Home w/ Home Health Services,237,153,3,$136295.87
+1447674,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$88749.61
+1447684,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$94324.42
+1447692,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$91192.27
+1447696,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$93221.01
+1447702,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$85136.43
+1447704,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$122811.15
+1447707,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$94337.10
+1447710,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$91396.48
+1447714,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$90315.29
+1447716,70 or Older,F,White,2,Elective,Skilled Nursing Home,212,153,1,$96806.13
+1447717,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$84975.74
+1447718,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,2,$221637.57
+1447719,70 or Older,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$110987.45
+1447727,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$99850.45
+1447736,50 to 69,F,White,9,Emergency,Home w/ Home Health Services,207,153,3,$169688.63
+1447737,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$83180.95
+1447738,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$82075.02
+1447741,70 or Older,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$90049.19
+1447742,50 to 69,M,Black/African American,4,Elective,Skilled Nursing Home,203,153,1,$215004.61
+1447748,50 to 69,F,White,7,Elective,Home w/ Home Health Services,212,153,2,$236189.50
+1447749,50 to 69,M,White,10,Elective,Skilled Nursing Home,203,153,3,$180939.88
+1447756,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$96169.44
+1447757,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,2,$116088.26
+1447759,70 or Older,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$124106.82
+1447762,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$129636.60
+1447765,50 to 69,M,White,2,Elective,Home or Self Care,203,153,2,$94553.41
+1447773,50 to 69,M,Other Race,3,Elective,Inpatient Rehabilitation Facility,203,153,1,$162069.01
+1447777,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$89969.19
+1447779,50 to 69,M,White,2,Elective,Skilled Nursing Home,237,153,2,$179401.83
+1447782,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$103458.77
+1447786,50 to 69,M,White,2,Elective,Home w/ Home Health Services,212,153,2,$82694.47
+1447789,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$111075.51
+1447797,50 to 69,M,White,4,Elective,Skilled Nursing Home,203,153,3,$117313.82
+1447803,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,1,$130944.16
+1447807,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$104102.71
+1447817,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$108035.19
+1447830,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$78799.85
+1447833,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$87070.23
+1447840,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$125672.87
+1447846,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$82994.12
+1447852,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$89211.70
+1447857,50 to 69,F,Black/African American,5,Elective,Inpatient Rehabilitation Facility,203,153,1,$173586.33
+1447861,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$119717.99
+1447862,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$75339.14
+1447864,50 to 69,M,Other Race,2,Elective,Skilled Nursing Home,237,153,2,$148653.60
+1447869,50 to 69,M,Black/African American,2,Elective,Inpatient Rehabilitation Facility,203,153,2,$90322.06
+1447875,70 or Older,F,White,6,Elective,Skilled Nursing Home,237,153,2,$185118.86
+1447876,70 or Older,F,White,9,Elective,Home w/ Home Health Services,204,153,2,$170624.84
+1447878,50 to 69,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$117617.73
+1447885,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$77660.53
+1447888,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$113601.86
+1447890,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$77760.39
+1447891,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$133233.50
+1447892,50 to 69,F,White,3,Elective,Home w/ Home Health Services,212,153,3,$102889.34
+1447895,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$100094.96
+1447898,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$87946.90
+1447900,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$89645.31
+1447901,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$160184.58
+1447910,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$81488.98
+1447911,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$86514.25
+1447912,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$84260.56
+1447921,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$80260.27
+1447926,70 or Older,F,Other Race,4,Elective,Home w/ Home Health Services,202,153,2,$106735.26
+1447935,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$81592.66
+1447936,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,3,$116957.69
+1447937,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$125780.96
+1447939,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$82865.22
+1447943,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,2,$67701.04
+1447944,50 to 69,M,White,3,Elective,Home w/ Home Health Services,209,153,3,$215948.34
+1447956,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$136004.73
+1447957,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$103539.13
+1447974,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$98514.55
+1447975,50 to 69,M,Black/African American,3,Elective,Home w/ Home Health Services,237,153,3,$176083.62
+1447976,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$84560.05
+1447978,50 to 69,M,White,6,Elective,Skilled Nursing Home,203,153,2,$145966.02
+1447981,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$75604.73
+1447993,18 to 29,M,Black/African American,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$164288.84
+1447997,70 or Older,F,Other Race,5,Emergency,Skilled Nursing Home,226,153,1,$108852.53
+1448019,30 to 49,M,White,6,Elective,Home or Self Care,237,153,2,$98040.66
+1448020,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$89984.81
+1448022,70 or Older,F,White,3,Emergency,Inpatient Rehabilitation Facility,226,153,1,$108741.31
+1448023,30 to 49,F,Other Race,2,Elective,Home w/ Home Health Services,237,153,2,$156180.90
+1448025,50 to 69,F,White,4,Emergency,Home w/ Home Health Services,226,153,2,$115496.62
+1448031,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$84107.07
+1448032,70 or Older,F,White,9,Emergency,Inpatient Rehabilitation Facility,226,153,2,$224054.51
+1448037,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$77729.23
+1448040,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$94972.71
+1448042,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$95140.72
+1448052,50 to 69,F,White,7,Elective,Home w/ Home Health Services,203,153,3,$124982.58
+1448058,70 or Older,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$101945.80
+1448059,18 to 29,F,White,2,Elective,Home w/ Home Health Services,212,153,3,$108778.32
+1448061,50 to 69,M,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$158131.29
+1448064,70 or Older,F,White,4,Elective,Inpatient Rehabilitation Facility,203,153,2,$110054.68
+1448067,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$125398.39
+1448076,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$90698.52
+1448078,50 to 69,F,White,2,Elective,Home or Self Care,203,153,1,$73078.95
+1448088,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$86023.98
+1448094,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$99096.78
+1448096,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$87850.91
+1448100,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$99296.17
+1448103,30 to 49,M,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$102615.42
+1448108,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$80881.69
+1448118,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$84328.31
+1448122,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80174.70
+1448124,70 or Older,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$166546.47
+1448125,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$126008.70
+1448127,50 to 69,F,Black/African American,8,Emergency,Inpatient Rehabilitation Facility,226,153,2,$147134.58
+1448128,50 to 69,F,White,3,Elective,Home or Self Care,212,153,2,$105413.15
+1448131,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$84976.17
+1448134,50 to 69,M,Other Race,6,Elective,Home w/ Home Health Services,203,153,2,$168221.92
+1448135,30 to 49,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$142831.28
+1448137,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$117119.71
+1448149,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$82254.75
+1448150,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,2,$159330.97
+1448153,50 to 69,F,White,2,Elective,Home w/ Home Health Services,237,153,3,$171664.16
+1448155,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$101051.63
+1448157,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$133223.61
+1448158,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$86505.02
+1448159,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$122839.16
+1448161,50 to 69,F,White,5,Emergency,Skilled Nursing Home,237,153,2,$81774.38
+1448180,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,3,$161693.94
+1448185,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,1,$132907.12
+1448186,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,1,$123170.09
+1448193,0 to 17,M,Black/African American,4,Elective,Home or Self Care,212,153,2,$130246.47
+1448195,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$79098.03
+1448196,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$77488.89
+1448200,70 or Older,F,White,4,Elective,Skilled Nursing Home,203,153,2,$105566.25
+1448202,70 or Older,F,White,15,Elective,Skilled Nursing Home,237,153,3,$460557.85
+1448204,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$80419.98
+1448206,50 to 69,F,White,5,Elective,Home w/ Home Health Services,237,153,2,$171715.07
+1448211,50 to 69,M,White,3,Elective,Home w/ Home Health Services,212,153,2,$204796.98
+1448229,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$79396.78
+1448239,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,3,$60128.50
+1448241,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$85059.53
+1448244,50 to 69,F,Other Race,4,Elective,Home w/ Home Health Services,203,153,2,$112839.29
+1448271,50 to 69,F,White,2,Elective,Skilled Nursing Home,203,153,2,$74132.12
+1448273,70 or Older,F,Other Race,4,Elective,Skilled Nursing Home,237,153,3,$215819.37
+1448277,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$100704.99
+1448278,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$82832.69
+1448280,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$71991.96
+1448291,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,3,$114028.72
+1448293,30 to 49,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$112476.26
+1448294,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$102518.54
+1448296,50 to 69,M,White,2,Elective,Skilled Nursing Home,203,153,2,$92397.42
+1448303,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$110466.51
+1448304,50 to 69,M,Black/African American,2,Elective,Home w/ Home Health Services,203,153,1,$116959.69
+1448308,70 or Older,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$83871.35
+1448309,50 to 69,M,White,2,Elective,Home w/ Home Health Services,212,153,2,$92578.10
+1448311,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$118947.75
+1448313,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$92330.66
+1448314,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$107189.53
+1448316,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$199534.94
+1448327,30 to 49,F,Other Race,3,Elective,Home w/ Home Health Services,203,153,2,$179838.45
+1448340,30 to 49,F,White,3,Elective,Skilled Nursing Home,203,153,2,$114969.09
+1448348,30 to 49,M,Other Race,5,Elective,Inpatient Rehabilitation Facility,202,153,3,$211970.81
+1448350,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$107968.58
+1448358,30 to 49,M,White,4,Elective,Inpatient Rehabilitation Facility,212,153,2,$110687.42
+1448359,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$100496.37
+1448361,30 to 49,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$88039.55
+1448362,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$116514.28
+1448369,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$123606.63
+1448370,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$126953.36
+1448372,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$94120.79
+1448373,50 to 69,M,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$115325.62
+1448375,50 to 69,F,White,2,Elective,Inpatient Rehabilitation Facility,237,153,2,$129227.98
+1448379,70 or Older,F,White,3,Elective,Inpatient Rehabilitation Facility,203,153,2,$138186.35
+1448383,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$80434.77
+1448391,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$102122.38
+1448396,50 to 69,M,White,4,Elective,Inpatient Rehabilitation Facility,203,153,1,$149513.46
+1448406,70 or Older,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$92443.40
+1448413,50 to 69,F,Black/African American,2,Elective,Home w/ Home Health Services,203,153,2,$85898.56
+1448419,70 or Older,F,White,5,Emergency,Skilled Nursing Home,230,146,2,$205278.03
+1448441,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$104088.88
+1448450,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$87466.78
+1448453,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$88804.08
+1448454,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,2,$89886.15
+1448455,30 to 49,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$84816.88
+1448456,70 or Older,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$84783.61
+1448462,30 to 49,F,Black/African American,3,Elective,Home w/ Home Health Services,203,153,2,$95538.45
+1448463,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$87180.09
+1448466,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$77409.33
+1448467,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$119410.72
+1448473,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$126214.78
+1448483,50 to 69,F,White,1,Elective,Home or Self Care,203,153,1,$84386.30
+1448484,30 to 49,F,White,2,Elective,Home w/ Home Health Services,203,153,3,$80402.92
+1448493,50 to 69,M,White,2,Elective,Home w/ Home Health Services,237,153,3,$155922.06
+1448503,50 to 69,M,Other Race,3,Elective,Home w/ Home Health Services,237,153,2,$140700.60
+1448506,30 to 49,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$154513.01
+1448516,70 or Older,F,White,3,Elective,Home w/ Home Health Services,237,153,2,$108717.39
+1448517,70 or Older,F,White,3,Elective,Skilled Nursing Home,203,153,1,$111756.89
+1448520,50 to 69,M,White,1,Elective,Home w/ Home Health Services,203,153,1,$88519.31
+1448524,50 to 69,F,White,10,Elective,Skilled Nursing Home,203,153,3,$229813.25
+1448529,50 to 69,F,White,5,Elective,Home w/ Home Health Services,237,153,3,$167093.67
+1448534,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$134722.82
+1448535,70 or Older,M,White,2,Elective,Skilled Nursing Home,237,153,2,$103583.27
+1448539,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$126819.99
+1448554,70 or Older,F,White,1,Elective,Home w/ Home Health Services,203,153,2,$85670.58
+1448556,50 to 69,F,White,1,Elective,Home w/ Home Health Services,203,153,1,$78331.18
+1448558,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$123798.81
+1448562,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,1,$137186.29
+1448568,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,2,$107673.42
+1448570,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80510.50
+1448572,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,1,$89324.21
+1448575,50 to 69,M,White,3,Elective,Home w/ Home Health Services,203,153,3,$107932.40
+1448580,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$110539.23
+1448584,70 or Older,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$82441.33
+1448585,70 or Older,M,White,2,Urgent,Home w/ Home Health Services,237,153,2,$60460.87
+1448587,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$80030.73
+1448599,30 to 49,F,Black/African American,2,Elective,Home w/ Home Health Services,212,153,3,$79186.60
+1448603,50 to 69,F,White,4,Elective,Home w/ Home Health Services,203,153,2,$136234.43
+1448604,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$87416.77
+1448605,50 to 69,F,White,3,Elective,Home w/ Home Health Services,203,153,2,$89466.39
+1448621,50 to 69,M,White,6,Emergency,Home w/ Home Health Services,237,146,2,$98665.19
+1448622,50 to 69,M,White,4,Emergency,Home w/ Home Health Services,237,153,3,$74676.49
+1448624,70 or Older,F,White,15,Emergency,Skilled Nursing Home,226,153,4,$237154.99
+1448633,30 to 49,M,White,2,Elective,Home w/ Home Health Services,203,153,1,$129881.75
+1448639,30 to 49,M,White,3,Elective,Home or Self Care,212,153,1,$99390.64
+1448649,50 to 69,F,White,4,Elective,Home w/ Home Health Services,226,153,3,$105145.83
+1448669,50 to 69,F,White,3,Elective,Home or Self Care,203,153,2,$86138.41
+1448677,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$103202.09
+1448678,70 or Older,F,White,6,Emergency,Skilled Nursing Home,226,153,2,$129829.46
+1448681,70 or Older,M,White,4,Elective,Home w/ Home Health Services,203,153,2,$155724.10
+1448686,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$88553.21
+1448690,50 to 69,F,Other Race,2,Elective,Home w/ Home Health Services,203,153,2,$83619.11
+1448691,50 to 69,F,White,3,Elective,Home w/ Home Health Services,237,153,3,$138395.35
+1448708,50 to 69,F,White,4,Elective,Skilled Nursing Home,203,153,1,$98589.85
+1448717,50 to 69,F,White,2,Elective,Home w/ Home Health Services,203,153,2,$76067.44
+1448743,50 to 69,M,White,2,Elective,Home w/ Home Health Services,203,153,2,$78573.89
+1448759,30 to 49,M,Other Race,5,Elective,Home or Self Care,203,153,3,$177131.44
+1448761,50 to 69,F,White,8,Elective,Skilled Nursing Home,237,146,3,$170620.32
+1448766,50 to 69,M,White,1,Elective,Home or Self Care,237,153,2,$97620.68
+1448769,50 to 69,F,White,8,Urgent,Inpatient Rehabilitation Facility,237,153,2,$228100.27
+1448771,50 to 69,M,White,8,Urgent,Home w/ Home Health Services,237,153,3,$165488.63
+1448784,50 to 69,M,White,7,Elective,Home w/ Home Health Services,237,153,2,$132437.29
